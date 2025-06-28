@@ -1,0 +1,6 @@
+audio_device: default
+video_source: 0
+model_path: ./models/mistral-7b.gguf
+memory_db: memory.db
+api_host: 0.0.0.0
+api_port: 8000
