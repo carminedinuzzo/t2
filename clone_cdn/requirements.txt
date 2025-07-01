@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+flask
+requests
+pydantic
+opencv-python
+mediapipe
+llama-cpp-python
+pyyaml

@@ -1,0 +1,7 @@
+authtoken: YOUR_NGROK_TOKEN
+version: 2
+region: eu
+tunnels:
+  clone_cdn:
+    addr: 8000
+    proto: http
